@@ -1,0 +1,6 @@
+Belegnummer,Buchungsdatum,Werk,Kostenstelle,Materialkurztext,Materialgruppe,Menge,Basismengeneinheit,Waehrung,Betrag,Lieferant
+5000001234,2026-03-14,1000,MFG-OPS,Diesel for boiler,FUEL,1250,L,USD,3900,Shell India
+5000001235,14.03.2026,2000,LOG-OPS,Packaging cartons,PACKAGING,3000,EA,EUR,2500,PackCo GmbH
+5000001236,03/18/2026,9999,MFG-OPS,Gasoline generator top-up,FUEL,80,gal,USD,320,Local Fuel Depot
+5000001237,20260320,1000,MFG-OPS,Diesel truck fuel,FUEL,,L,USD,100,Shell India
+

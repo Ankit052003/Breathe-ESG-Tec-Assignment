@@ -1,0 +1,7 @@
+Expense ID,Traveler,Department,Category,Transaction Date,Origin Airport,Destination Airport,Distance,Distance Unit,Hotel Nights,Ground Distance,Currency,Amount,Vendor
+TR-9001,Asha Rao,Sales,Flight,2026-03-12,BLR,DEL,,,,,USD,420,IndiGo
+TR-9002,Ben Carter,Engineering,Hotel,2026-03-15,,,,,3,,USD,480,Premier Inn London
+TR-9003,Mei Chen,Ops,Taxi,03/18/2026,,,,km,,28,USD,90,Uber Business
+TR-9004,Ravi Shah,Sales,Flight,2026-03-20,ABC,DEL,,,,,USD,510,TravelDesk
+TR-9005,Ravi Shah,Sales,Meal,2026-03-21,,,,,,,USD,45,Restaurant
+

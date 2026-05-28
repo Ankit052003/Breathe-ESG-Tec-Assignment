@@ -1,0 +1,6 @@
+Account Number,Meter Number,Service Address,Billing Period Start,Billing Period End,Usage,Usage Unit,Peak Demand kW,Tariff,Total Cost,Currency
+AC-100,BLR-EL-01,"42 Peenya Industrial Area, Bengaluru",2026-02-18,2026-03-17,48200,kWh,310,HT Industrial Time-of-Day,5120,USD
+AC-200,PUN-EL-02,"8 Chakan Logistics Park, Pune",03/01/2026,03/31/2026,62.5,MWh,120,Commercial Demand,6900,USD
+AC-300,UNKNOWN-9,"Temporary warehouse",2026-03-31,2026-03-01,8500,kWh,40,General Service,900,USD
+AC-400,BLR-EL-01,"42 Peenya Industrial Area, Bengaluru",2026-04-01,2026-04-30,180000,kWh,600,HT Industrial Time-of-Day,19000,USD
+
